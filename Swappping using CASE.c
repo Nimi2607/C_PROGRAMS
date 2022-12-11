@@ -183,13 +183,6 @@ int main() {
             }break;
         default:
             printf("enter value from 2 to 9");
-            
     }
-           
-            
-   
-    
-    
-    
-    return 0;
+   return 0;
 }
